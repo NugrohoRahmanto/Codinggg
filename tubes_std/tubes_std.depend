@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672818172 source:d:\tubes\std\tubes_std\main.cpp
+	"pakan_ikan.h"
+
+1672819072 d:\tubes\std\tubes_std\pakan_ikan.h
+	<iostream>
+
+1672821465 source:d:\tubes\std\tubes_std\pakan_ikan.cpp
+	"pakan_ikan.h"
+
